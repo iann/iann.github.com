@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Ian Moriarty</title>
+ <link href="https://ianmoriarty.com/atom.xml" rel="self"/>
+ <link href="https://ianmoriarty.com"/>
+ <updated>2016-11-30T01:18:06.275Z</updated>
+ <id>https://ianmoriarty.com</id>
+ <author>
+   <name>Ian Moriarty</name>
+   <email>ianmoriart@gmail.com</email>
+ </author>
+
+ 
+   
+     <entry>
+       <title>Overview of Modern Javascript Tooling</title>
+       <link href="https://ianmoriarty.com/2015/07/26/Modern-Javascript-Toolkit"/>
+       <updated>2015-07-26T00:00:00.000Z</updated>
+       <id>https://ianmoriarty.com</id>
+       <content type="html">&lt;p&gt;From &lt;a href=&quot;http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/&quot;&gt;The Hitchhiker&#39;s Guide to Modern JavaScript Tooling&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;JavaScript newcomers are often people coming from communities like Ruby and
+Java where opinionated, full-stack solutions exist. Frameworks like Ruby on
+Rails provide a lot of features out of the box - in fact the problem you may
+have with JavaScript is caused by that. You do not think about the building
+tools for your code - your template language processors, asset pipeline, cache
+middleware and a lot other things are pre-configured for you and they work
+transparently.&lt;/p&gt;
+&lt;p&gt;JavaScript tooling often consists of small tools, utilities and libraries that
+combined builds your code to be used in a browser. They allow you to rebuild
+your project after changes, run your test suite, hot reload your code and so
+on.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here&#39;s a good article that overviews on the current state of modern Javascript
+tooling.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Part of what makes Javascript extremely powerful and what attracted me to it is
+its flexibility and lack of opinions. This can make it difficult for a beginner
+to get started since so little is given to newcomers. Projects like
+&lt;a href=&quot;http://yeoman.io/&quot;&gt;Yeoman&lt;/a&gt; help a lot in getting things off the ground for new
+developers or seasoned ones trying out a new framework or tool. Personally, one
+of the first things I do when checking out a new Javascript framework is look
+for Yeoman project featuring it to get up and running quickly.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://github.com/iann/iann.github.com&quot;&gt;source&lt;/a&gt; of this site
+currently using quite a few of the tools mentioned in the article. Feel free to
+check it out or fork.&lt;/p&gt;
+</content>
+     </entry>
+   
+ 
+   
+     <entry>
+       <title>Simple Boxes Free Wallpaper</title>
+       <link href="https://ianmoriarty.com/2015/07/25/Simple-Boxes-Wallpaper"/>
+       <updated>2015-07-25T00:00:00.000Z</updated>
+       <id>https://ianmoriarty.com</id>
+       <content type="html">&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/wallpapers/simple-boxes-hd-1920x1080.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Download Links:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/img/wallpapers/simple-boxes-hd-1920x1080.png&quot;&gt;HD (1080p) Landscape&lt;/a&gt; |
+&lt;a href=&quot;/img/wallpapers/simple-boxes-hd-1080x1920.png&quot;&gt;HD (1080p) Portrait&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/img/wallpapers/simple-boxes-qhd-2560x1440.png&quot;&gt;QHD (1440p) Landscape&lt;/a&gt; |
+&lt;a href=&quot;/img/wallpapers/simple-boxes-qhd-1440x2560.png&quot;&gt;QHD (1440p) Portrait&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/img/wallpapers/simple-boxes-4k-3840x2160.png&quot;&gt;4k (2160p) Landscape&lt;/a&gt; |
+&lt;a href=&quot;/img/wallpapers/simple-boxes-4k-2160x3840.png&quot;&gt;4k (2160p) Portrait&lt;/a&gt;&lt;/p&gt;
+</content>
+     </entry>
+   
+ 
+   
+     <entry>
+       <title>Happy 2015!!!</title>
+       <link href="https://ianmoriarty.com/2015/01/19/Happy-2015"/>
+       <updated>2015-01-19T00:00:00.000Z</updated>
+       <id>https://ianmoriarty.com</id>
+       <content type="html">&lt;p&gt;Happy New Year! I&#39;m excited to relaunch my personal website. Here&#39;s the &quot;stack&quot;
+I decided to go with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://nodejs.org/&quot;&gt;Node&lt;/a&gt; + &lt;a href=&quot;http://bower.io/&quot;&gt;Bower&lt;/a&gt; + &lt;a href=&quot;http://gulpjs.com/&quot;&gt;Gulp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub (&lt;a href=&quot;https://github.com/iann/iann.github.com/tree/develop&quot;&gt;repository&lt;/a&gt; + &lt;a href=&quot;https://pages.github.com/&quot;&gt;hosting&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;Cloudflare&lt;/a&gt; (CDN + SSL)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://travis-ci.org/iann/iann.github.com&quot;&gt;Travis CI&lt;/a&gt; (Automated deployment)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;It&#39;s a pretty straightforward stack as the site is static HTML + CSS. I want to
+thank &lt;a href=&quot;http://www.rioki.org/&quot;&gt;Sean Farrell&lt;/a&gt; for putting together an awesome
+&lt;a href=&quot;https://github.com/rioki/www.rioki.org/blob/master/gulpfile.js&quot;&gt;gulpfile&lt;/a&gt; as a
+base. His whole repo is located &lt;a href=&quot;https://github.com/rioki/www.rioki.org&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Also, thanks &lt;a href=&quot;http://www.blacktie.co/&quot;&gt;BlackTie&lt;/a&gt; for creating
+&lt;a href=&quot;http://www.blacktie.co/2014/01/stanley-freelancer-theme/&quot;&gt;this&lt;/a&gt; awesome
+bootstrap template that I could modify to fit my needs.&lt;/p&gt;
+</content>
+     </entry>
+   
+ 
+   
+     <entry>
+       <title>Browser Caching</title>
+       <link href="https://ianmoriarty.com/2014/04/24/Browser-Caching"/>
+       <updated>2014-04-24T00:00:00.000Z</updated>
+       <id>https://ianmoriarty.com</id>
+       <content type="html">&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Many assets on webpages are static files (Javascript, CSS, images, etc). This type of content &lt;em&gt;can&lt;/em&gt; and &lt;em&gt;should&lt;/em&gt; be cached. Caching saves on bandwidth and provides a better user experience. The HTTP Specification &lt;a href=&quot;http://www.w3.org/Protocols/rfc2616/rfc2616.html&quot;&gt;RFC2616&lt;/a&gt; allows for caching at many levels. This article will focus primarily on requests made by user-agents / clients and corresponding responses from origin servers.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;protocol&quot;&gt;Protocol&lt;/h3&gt;
+&lt;p&gt;When a client requests an asset on a web server it sends a &lt;code&gt;GET&lt;/code&gt; request to the server. Along with the &lt;code&gt;GET&lt;/code&gt; request the client sends additional information about the request. The additional information is contained in the beginning or head of the file accordingly these properties are called &lt;code&gt;Headers&lt;/code&gt;. The corresponding response from the server also contains Headers.  Headers specify what a client is capable of accepting or server is sending in the payload and provide other directives.&lt;/p&gt;
+&lt;p&gt;Here&#39;s an example of a request headers:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, compress
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1942.0 Safari/537.36&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;And the corresponding response headers:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Connection: keep-alive
+Content-Encoding: gzip
+Content-Length: 1375
+Content-Type: text/css
+Date: Wed, 16 Apr 2014 18:01:40 GMT
+Last-Modified: Wed, 09 Apr 2014 20:15:56 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;cache-headers&quot;&gt;Cache Headers&lt;/h3&gt;
+&lt;p&gt;The full specification on HTTP/1.1 caching header directives can be found here &lt;a href=&quot;http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;public&lt;/code&gt; -- Indicates that the response MAY be cached by any cache, even if it would normally be non-cacheable or cacheable only within a non-shared cache.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In some versions of Firefox if public is not set on HTTPS traffic no disk caching will take place &lt;a href=&quot;https://developers.google.com/speed/docs/best-practices/caching&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;private&lt;/code&gt; -- Indicates that all or part of the response message is intended for a single user and MUST NOT be cached by a shared cache. This allows an origin server to state that the specified parts of the
+response are intended for only one user and are not a valid response for requests by other users. A private (non-shared) cache MAY cache the response.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;HTTP has many mechanisms to help speed up request to response latency through caches. Caches can be both private and public. An example of a public cache would be a Squid proxy running on a corporate network or an Internet Service Provider (ISP) caching common website assets. A private cache could be a clients local (browser) cache.&lt;/p&gt;
+&lt;p&gt;Mark Nottingham summarizes a few more caching directives &lt;a href=&quot;http://www.mnot.net/cache_docs/&quot;&gt;[3]&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;max-age&lt;/code&gt; [seconds] -- specifies the maximum amount of time that a representation will be considered fresh. Similar to Expires, this directive is relative to the time of the request, rather than absolute. [seconds] is the number of seconds from the time of the request you wish the representation to be fresh for.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;max-age&lt;/code&gt; is a strong validator. Within the asset&#39;s max-age time the client &lt;strong&gt;will not&lt;/strong&gt; make further requests to the server until the max-age has expired. That is, the cached version of the file &lt;strong&gt;will&lt;/strong&gt; be used without consulting with the server for an updated asset until the &lt;code&gt;max-age&lt;/code&gt; time has elapsed.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;s-maxage&lt;/code&gt; [seconds] -- similar to max-age, except that it only applies to shared (e.g., proxy) caches.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;no-cache&lt;/code&gt; -- forces caches to submit the request to the origin server for validation before releasing a cached copy, every time. This is useful to assure that authentication is respected (in combination with public), or to maintain rigid freshness, without sacrificing all of the benefits of caching.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This directive can be sent by both the client (request) and the server (response).&lt;/p&gt;
+&lt;p&gt;When sent with the request by the client this directive instructs the upstream proxies to &lt;em&gt;revalidate&lt;/em&gt; cached copies with the origin server. The response must not be a cached copy.&lt;/p&gt;
+&lt;p&gt;Conversely, when &lt;code&gt;no-cache&lt;/code&gt; is sent with the response from the server the server is instructing the browser to &lt;strong&gt;revalidate&lt;/strong&gt; the asset before using a locally cached copy.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;no-store&lt;/code&gt; -- instructs caches not to keep a copy of the representation under any conditions.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;no-store&lt;/code&gt; is more strict than &lt;code&gt;no-cache&lt;/code&gt;. With &lt;code&gt;no-store&lt;/code&gt; set all intermediate caches are instructed &lt;em&gt;not&lt;/em&gt; to store the response. This can be sent from either the client or the server.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;must-revalidate&lt;/code&gt; -- tells caches that they must obey any freshness information you give them about a representation. HTTP allows caches to serve stale representations under special conditions; by specifying this header, you’re telling the cache that you want it to strictly follow your rules.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;proxy-revalidate&lt;/code&gt; -- similar to must-revalidate, except that it only applies to proxy caches.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Mobify &lt;a href=&quot;https://www.mobify.com/blog/beginners-guide-to-http-cache-headers/&quot;&gt;[4]&lt;/a&gt; defines other common header directives:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;expires&lt;/code&gt; -- Back in the day, this was the standard way to specify when an asset expired, and is just a basic date-time stamp. It is still fairly useful for older user agents, which cryptowebologists assure us still roam in the uncharted territories. On most modern systems, the &quot;cache-control&quot; headers &quot;max-age&quot; and &quot;s-maxage&quot; will take precedence, but it&#39;s always good practice to set a matching value here for compatibility.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The expires header is a strong validator. With an expires header the client &lt;strong&gt;will not&lt;/strong&gt; request a new asset until after the expiration date. &lt;a href=&quot;http://www.mnot.net/cache_docs/&quot;&gt;[2]&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Expires header can’t be circumvented; unless the cache (either browser or proxy) runs out of room and has to delete the representations, the cached copy will be used until then.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Setting far in the future expires dates can be dangerous if the underlying asset changes. Since the client will not talk to the server until after the expiration date it will always used the locally cached copy until that point. When a page breaks due to incorrect caching policies it is called a poison cache scenario and a cache busting technique (described below) must be used to break out of it.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;no-transform&lt;/code&gt; -- “Transform into what?”, you’re surely asking. Some proxies will convert image formats and other documents to improve performance. Presumably this was thought to be a feature that you should have to opt out of. If you don’t like the idea of your CDN making automated guesses about how your content should be encoded or formatted, I suggest including this header.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;etag&lt;/code&gt; -- Short for &quot;entity-tag&quot;, the etag is a unique identifier for the resource being requested, typically comprised of the hash of that resource, or a hash of the timestamp the resource was updated. Basically, this lets a client ask smarter questions of the CDNs, like &quot;give me X if it&#39;s different than the etag I already have.&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;An &lt;code&gt;etag&lt;/code&gt; is a file validator and a weak caching header. If a cached object is not due to be refreshed from the server it will make no difference if the etags do not match. An &lt;code&gt;etag&lt;/code&gt; should be used in addition to other caching headers.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;last-modified&lt;/code&gt; -- This header defines the last time the file was modified. This normally corresponds to the asset&#39;s timestamp. Many servers include this header in a response and the client uses this as a file validator and weak cache header.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Similar to &lt;code&gt;etag&lt;/code&gt;, &lt;code&gt;last-modified&lt;/code&gt; is a file validator and should be used with other caching headers.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;etag&lt;/code&gt; and &lt;code&gt;last-modified&lt;/code&gt; can be used to save on bandwidth. When a cache expires the browser will make a new &lt;code&gt;GET&lt;/code&gt; request for that asset. If the asset has an &lt;code&gt;etag&lt;/code&gt; or &lt;code&gt;last-modified&lt;/code&gt; it will send &lt;code&gt;if-none-match&lt;/code&gt; or &lt;code&gt;if-modified-since&lt;/code&gt; headers with the request, respectively. If the &lt;code&gt;etag&lt;/code&gt; has not changed or the modification date is less than or equal to the cached asset the server will respond with &lt;code&gt;304 Not Modified&lt;/code&gt; with no content in the body. Presumably, a server will respond with &lt;code&gt;max-age&lt;/code&gt; or a new &lt;code&gt;expires&lt;/code&gt; date and the client will not request again until that time has elapsed.&lt;/p&gt;
+&lt;h3 id=&quot;caching-strategies&quot;&gt;Caching Strategies&lt;/h3&gt;
+&lt;p&gt;There are three general strategies when it comes to caching.  I have dubbed these &lt;em&gt;sometimes&lt;/em&gt;, &lt;em&gt;always&lt;/em&gt; and &lt;em&gt;never&lt;/em&gt;.&lt;/p&gt;
+&lt;h4 id=&quot;sometimes&quot;&gt;Sometimes&lt;/h4&gt;
+&lt;p&gt;The other strategy is to have a continuous caching strategy. One does not want to completely eliminate the benefits of caching but files are updated often enough that assets can not be stale long amounts of time. These variables can be tweaked but here is an example Amazon S3 uses for static assets.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Cache-Control: no-transform,public,max-age=300,s-maxage=900
+Date: Wed, 23 Apr 2014 20:53:12 GMT
+Etag: &quot;bbea5db7e1785119a7f94fdd504c546e&quot;
+Last-Modified: Thu, 17 Apr 2014 22:33:18 GMT
+Server: AmazonS3
+Vary: Accept-Encoding&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We can see that S3 tells intermediate caches to hold onto content for 900 seconds while clients should keep content for 300 seconds. The average active session can be another useful value for cache time. It is important to have either an &lt;code&gt;etag&lt;/code&gt; or &lt;code&gt;last-modified&lt;/code&gt; set because we can benefit from a &lt;code&gt;304 Not Modified&lt;/code&gt; response when the cached file expires.&lt;/p&gt;
+&lt;h4 id=&quot;always&quot;&gt;Always&lt;/h4&gt;
+&lt;p&gt;Google recommends the &quot;always&quot; technique to ensure maximum caching and clients always getting the most fresh files. In this technique one sets their cache to as long as possible (maximum 1 year) to ensure the most efficient caching takes place. If a file change takes place the client is forced to download the latest file, this is done by dynamically changing the name of the file based on its contents. This step ideally would be automated in a build step.&lt;/p&gt;
+&lt;p&gt;Example cache headers would be:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Cache-Control: public, max-age=31536000
+Date: Wed, 23 Apr 2014 20:53:12 GMT
+Expires: Thu, 23 Apr 2015 20:53:12 GMT
+Last-Modified: Wed, 09 Oct 2013 01:35:39 GMT&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&quot;never&quot;&gt;Never&lt;/h4&gt;
+&lt;p&gt;This strategy is useful if the asset should never be kept in local or intermediate caches.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Cache-Control: private, max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 23 Apr 2014 20:53:12 GMT
+Expires: Wed, 23 Apr 2014 20:53:12 GMT&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Of course, if the traffic is over HTTPS intermediate caches can not cache assets.&lt;/p&gt;
+&lt;h3 id=&quot;cache-busting&quot;&gt;Cache Busting&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The most effective solution is to change any links to them; that way, completely new representations will be loaded fresh from the origin server. Remember that any page that refers to these representations will be cached as well. Because of this, it’s best to make static images and similar representations very cacheable, while keeping the HTML pages that refer to them on a tight leash. &lt;a href=&quot;http://www.mnot.net/cache_docs/&quot;&gt;[2]&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;interesting-edge-cases&quot;&gt;Interesting Edge Cases&lt;/h3&gt;
+&lt;p&gt;A place to keep an ongoing log of interesting cacheing strategies. Use &lt;a href=&quot;http://redbot.org/&quot;&gt;REDbot&lt;/a&gt; on a URL to see possible caching pitfalls.&lt;/p&gt;
+&lt;h4 id=&quot;browser-caching-heuristic&quot;&gt;Browser Caching Heuristic&lt;/h4&gt;
+&lt;p&gt;According to the spec, when a server sends partial caching headers then the client has to decide the correct caching strategy &lt;a href=&quot;http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html&quot;&gt;[5]&lt;/a&gt;. An example is when no &lt;code&gt;expires&lt;/code&gt; or &lt;code&gt;cache-control&lt;/code&gt; headers are set, but file validation &lt;code&gt;last-modified&lt;/code&gt; or &lt;code&gt;etag&lt;/code&gt; are sent. The client will apply a heuristic expiration to the asset.&lt;/p&gt;
+&lt;p&gt;Firefox and Chrome currently implement the following heuristic.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-c&quot;&gt;if (last_modified_value &lt;= date_value) {
+    return (date_value - last_modified_value) / 10;
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Where &lt;code&gt;last_modified_value&lt;/code&gt; is the &lt;code&gt;last-modified&lt;/code&gt; header and &lt;code&gt;date_value&lt;/code&gt; is the date returned in the response header or the clients current date-time. The calculated value is then set to that assets &lt;code&gt;max-age&lt;/code&gt;. A quick calculation will show why this is not always a good idea. Let&#39;s say we have an asset last modified 200 days ago. Chrome and Firefox will set the expiration of this file to 20 days into the future. This expiration time gets longer and longer if the files do not change often.&lt;/p&gt;
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[1] &lt;a href=&quot;http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14&quot;&gt;http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[2] &lt;a href=&quot;https://developers.google.com/speed/docs/best-practices/caching&quot;&gt;https://developers.google.com/speed/docs/best-practices/caching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[3] &lt;a href=&quot;http://www.mnot.net/cache_docs/&quot;&gt;http://www.mnot.net/cache_docs/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[4] &lt;a href=&quot;https://www.mobify.com/blog/beginners-guide-to-http-cache-headers/&quot;&gt;https://www.mobify.com/blog/beginners-guide-to-http-cache-headers/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[5] &lt;a href=&quot;http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html&quot;&gt;http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;additional-reading&quot;&gt;Additional Reading&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/articles/gzip?hl=en&quot;&gt;https://developers.google.com/speed/articles/gzip?hl=en&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.maxcdn.com/accept-encoding-its-vary-important/&quot;&gt;http://blog.maxcdn.com/accept-encoding-its-vary-important/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blogs.msdn.com/b/ieinternals/archive/2010/07/08/technical-information-about-conditional-http-requests-and-the-refresh-button.aspx&quot;&gt;http://blogs.msdn.com/b/ieinternals/archive/2010/07/08/technical-information-about-conditional-http-requests-and-the-refresh-button.aspx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/&quot;&gt;http://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/14345898/what-heuristics-do-browsers-use-to-cache-resources-not-explicitly-set-to-be-cach&quot;&gt;https://stackoverflow.com/questions/14345898/what-heuristics-do-browsers-use-to-cache-resources-not-explicitly-set-to-be-cach&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+     </entry>
+   
+ 
+   
+     <entry>
+       <title>Amazon Prime Rocks</title>
+       <link href="https://ianmoriarty.com/2012/02/28/Amazon-Prime"/>
+       <updated>2012-02-28T00:00:00.000Z</updated>
+       <id>https://ianmoriarty.com</id>
+       <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.lukew.com/ff/entry.asp?1508&quot;&gt;Data Monday: Amazon Prime&lt;/a&gt;&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Amazon Prime Memebers:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Increase their purchases on Amazon from $400 a year to $900 a year after they join.&lt;/p&gt;
+&lt;p&gt;Spend 130% more than regular Amazon customers.&lt;/p&gt;
+&lt;p&gt;May be responsible for as much as 20% of Amazon&#39;s overall sales in the U.S.&lt;/p&gt;
+&lt;p&gt;82% of Prime members buy on Amazon even if the item is less expensive somewhere else&lt;/p&gt;
+&lt;p&gt;92% of Prime members plan to renew their membership.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I love Amazon Prime. For someone who is busy and has no time to shop around or go to stores it is a perfect companion.  I buy everything I can through Amazon and I want to buy more -- ahem -- &lt;a href=&quot;&quot;http://fresh.amazon.com/&quot;&quot;&gt;Amazon Fresh&lt;/a&gt; come to Boston. Please.&lt;/p&gt;
+</content>
+     </entry>
+   
+ 
+   
+     <entry>
+       <title>I&#39;ll call your 1mm and raise you a Retina Display</title>
+       <link href="https://ianmoriarty.com/2012/02/08/1mm-vs-Retina"/>
+       <updated>2012-02-08T00:00:00.000Z</updated>
+       <id>https://ianmoriarty.com</id>
+       <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.theverge.com/2012/2/8/2785486/ipad-3-back-photo-appears-a6-retina-display&quot; title=&quot;The Verge&quot;&gt;Alleged iPad 3 casing photo appears, sources say coming soon with improved GPU but no quad-core, thicker profile&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The iPad 3 rumor mill is heating up. From the Verge&#39;s Joshua Topolsky:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The new iPad will be touting that double resolution display — a true iPad Retina Display, clocking in at 2048 x 1536 — the device will be nearly physically identical to its predecessor, but the slate will be about one millimeter thicker overall.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;I know I&#39;m not the only one that will gladly take a little thicker device for a 2048 x 1536 pixel display. Think about how nice typography will look.&lt;/p&gt;
+&lt;p&gt;An upgraded GPU and CPU (A6) are expected, too. The CPU however may not be quad core -- a bit of a surprise. It probably has something to do with the constant battle of battery life vs new tech. I&#39;m sure Apple will spin it with, &quot;a dual-core chip is really all anyone needs right now.&quot; And you know what? Apple is probably right.&lt;/p&gt;
+&lt;p&gt;Too often do manufactures promise the sun and then deliver poor performance. Note: this would not be the first time an Apple product was late to the party stepping up the cores. It was not until the iPhone 4 that Apple embraced a dual-core mobile chip. This is also true of their notebook line. Apple&#39;s MacBook Air was only recently updated to quad-core only in the latest hardware refresh. At each of these times Apple was signifigantly behind the industry standard. But it doesn&#39;t matter. Both the MacBook Air and iPhone provided vastly superior user experiences and customers saw it.&lt;/p&gt;
+</content>
+     </entry>
+   
+ 
+   
+     <entry>
+       <title>Apple Q1 2012 Earnings</title>
+       <link href="https://ianmoriarty.com/2012/01/24/Apple-Q1-2012-Earnings"/>
+       <updated>2012-01-24T00:00:00.000Z</updated>
+       <id>https://ianmoriarty.com</id>
+       <content type="html">&lt;p&gt;&lt;a href=&quot;http://techcrunch.com/2012/01/24/apples-q1-2012-46-3b-in-revenue-37m-iphones-and-15-4m-ipads-sold/&quot; title=&quot;TechCrunch&quot;&gt;Apple Q1 2012 Earnings Call&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apple&#39;s Q1 2012 Numbers are nothing less than amazing.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;iPhones sold:&lt;/em&gt; 37.04 million (17.07 million last quarter)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;iPads sold:&lt;/em&gt; 15.43 million&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Macs sold:&lt;/em&gt; 5.2 million (4.89 million last quarter)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;iPods sold:&lt;/em&gt; 15.4 million (up from 6.62 million last quarter, but down 21% year over year)&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+     </entry>
+   
+ 
+   
+     <entry>
+       <title>On Batteries</title>
+       <link href="https://ianmoriarty.com/2012/01/23/On-Batteries"/>
+       <updated>2012-01-23T00:00:00.000Z</updated>
+       <id>https://ianmoriarty.com</id>
+       <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.wired.com/wiredscience/2012/01/are-expensive-batteries-worth-the-extra-cost/&quot; title=&quot;Wired&quot;&gt;Are Expensive Batteries Worth the Extra Cost?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wired puts &lt;em&gt;bargain-basement&lt;/em&gt; batteries versus the likes of Duracell and Energizer.&lt;/p&gt;
+</content>
+     </entry>
+   
+ 
+   
+     <entry>
+       <title></title>
+       <link href="https://ianmoriarty.com/2012/01/05/Hello-World"/>
+       <updated>2012-01-05T00:00:00.000Z</updated>
+       <id>https://ianmoriarty.com</id>
+       <content type="html">&lt;p&gt;Hello World&lt;/p&gt;
+</content>
+     </entry>
+   
+ 
+   
+     <entry>
+       <title>Why hello there</title>
+       <link href="https://ianmoriarty.com/2011/03/30/Why-hello-there"/>
+       <updated>2011-03-30T00:00:00.000Z</updated>
+       <id>https://ianmoriarty.com</id>
+       <content type="html">&lt;p&gt;&lt;a href=&quot;http://instagr.am/p/CrKuz/&quot;&gt;&lt;img src=&quot;/tumblr_files/tumblr_livnlmS9cJ1qzoid4o1_500.jpg&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Why hello there. (Taken with &lt;a href=&quot;http://instagr.am&quot;&gt;instagram&lt;/a&gt;)&lt;/p&gt;&lt;/p&gt;
+</content>
+     </entry>
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+  
+</feed>

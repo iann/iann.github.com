@@ -1,0 +1,31 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 0px 15px;
+  text-align: center;
+}
+
+.caption {
+  width: 600px;
+  padding: 10px 20px;
+}
+
+.front-row {
+  font-size: 240px;
+}
+
+.center-text {
+  text-align: center;
+  padding: 0px 0px 16px 0px;
+}
+
+.jumbotron {
+  padding: 64px 0px 20px 0px;
+  background-image: url('../img/earth.jpg');
+}
+
+.chart-center {
+  margin:0 auto;
+  display: block;
+}
